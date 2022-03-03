@@ -1,0 +1,4 @@
+$ export ARM_SUBSCRIPTION_ID="df4329de-8e60-490b-90d1-5d28df3d8d92"
+$ export ARM_CLIENT_ID="6b656d3e-a142-4b04-ab00-a27d661567fa"
+$ export ARM_CLIENT_SECRET="IKgEcN7m0ECmkIb9PplL.plI8I3Df5i~Gp"
+$ export ARM_TENANT_ID="6a2cd28e-0fba-4acf-a8da-c867e0ccef96"
